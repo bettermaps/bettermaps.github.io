@@ -227,9 +227,8 @@ a:focus {
 .banner {
     padding: 50px 0;
     color: #808284;
-    background: url(../img/topo-01.png) no-repeat center center;
     background-size: cover;
-    border-top:dotted 1px #DCDCDC;
+  
     
 }
 
