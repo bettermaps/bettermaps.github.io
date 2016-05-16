@@ -229,7 +229,7 @@ a:focus {
     color: #808284;
     background: url(../img/topo-01.png) no-repeat center center;
     background-size: cover;
-    border-top:solid 1px #808284;
+    border-top:dotted 1px #DCDCDC;
     
 }
 
